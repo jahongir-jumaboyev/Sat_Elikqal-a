@@ -121,6 +121,7 @@ async def start(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
     if update.message:
         context.user_data.pop("selected_unit", None)
         context.user_data.pop("current_word", None)
+        context.user_data.pop("unit_score", None)
         await update.message.reply_text(
             "Salom! O‘rganish uchun урок-1 dan урок-12 gacha bo‘lgan bo‘limlardan "
             "birini tanlang. Men ruscha so‘zni beraman, siz o‘zbekchasini yozasiz.\n"
@@ -164,7 +165,11 @@ async def select_unit(update: Update, context: ContextTypes.DEFAULT_TYPE) -> Non
     if unit_number not in units:
         await message.reply_text("Bu урок lug‘atda topilmadi.")
         return
+    context.user_data.pop("unit_score", None)
     context.user_data["selected_unit"] = unit_number
+    context.user_data.setdefault("unit_score", {}).setdefault(
+        f"unit:{unit_number}", {"correct": 0, "total": 0, "seen": set()}
+    )
     await message.reply_text(
         f"📚 урок-{unit_number}: {units[unit_number]['title']}"
     )
@@ -185,7 +190,19 @@ async def send_random_word(
             "words", []
         )
         if unit_words:
-            words = unit_words
+            progress = unit_progress(context)
+            if progress is None:
+                progress = {"correct": 0, "total": 0, "seen": set()}
+                context.user_data.setdefault("unit_score", {}).setdefault(
+                    f"unit:{selected_unit}", progress
+                )
+            remaining_words = [
+                word for word in unit_words if get_word_key(word) not in progress["seen"]
+            ]
+            if not remaining_words:
+                await finish_unit(update, context)
+                return
+            words = remaining_words
     word = random.choice(words)
     context.user_data["current_word"] = word
     await message.reply_text(
@@ -225,6 +242,62 @@ def accepted_answers(translation: str) -> set[str]:
     return answers
 
 
+def get_word_key(word: Word) -> str:
+    return str(
+        word.get("id")
+        or f"{word.get('unit', '')}:{word.get('lesson', '')}:{word.get('ru', '')}:{word.get('uz', '')}"
+    )
+
+
+def get_score_summary(score: dict[str, int]) -> str:
+    correct = int(score.get("correct", 0))
+    total = int(score.get("total", 0))
+    return f"📊 Hisob: {correct}/{total}"
+
+
+def record_answer(score: dict[str, int] | None, is_correct: bool) -> dict[str, int]:
+    if score is None:
+        score = {}
+    score["total"] = int(score.get("total", 0)) + 1
+    if is_correct:
+        score["correct"] = int(score.get("correct", 0)) + 1
+    return score
+
+
+def unit_progress(context: ContextTypes.DEFAULT_TYPE) -> dict[str, Any] | None:
+    selected_unit = context.user_data.get("selected_unit")
+    if selected_unit is None:
+        return None
+    unit_key = f"unit:{selected_unit}"
+    progress = context.user_data.setdefault("unit_score", {}).setdefault(
+        unit_key,
+        {"correct": 0, "total": 0, "seen": set()},
+    )
+    return progress
+
+
+async def finish_unit(
+    update: Update, context: ContextTypes.DEFAULT_TYPE
+) -> None:
+    message = update.effective_message
+    if not message:
+        return
+    selected_unit = context.user_data.get("selected_unit")
+    progress = unit_progress(context)
+    if selected_unit is None or progress is None:
+        await message.reply_text("Mavzu yakuni bo‘yicha natija aniqlanmagan.")
+        return
+    await message.reply_text(
+        f"🎉 урок-{selected_unit} tugadi!\n"
+        f"Siz {int(progress['correct'])} ta so‘zni to‘g‘ri topdingiz.\n"
+        f"Jami: {get_score_summary({'correct': int(progress['correct']), 'total': int(progress['total'])})}"
+    )
+    context.user_data.pop("selected_unit", None)
+    context.user_data.pop("current_word", None)
+    context.user_data.pop("unit_score", None)
+    await send_topics(update, context)
+
+
 async def check_answer(
     update: Update, context: ContextTypes.DEFAULT_TYPE
 ) -> None:
@@ -239,14 +312,34 @@ async def check_answer(
         )
         return
 
-    if normalize_answer(update.message.text) in accepted_answers(word["uz"]):
+    is_correct = normalize_answer(update.message.text) in accepted_answers(word["uz"])
+    if is_correct:
         result = "✅ To‘g‘ri!"
     else:
         result = f"❌ Noto‘g‘ri. To‘g‘ri javob: {word['uz']}"
 
+    progress = unit_progress(context)
+    if progress is not None:
+        word_key = get_word_key(word)
+        if word_key not in progress["seen"]:
+            progress["seen"].add(word_key)
+            record_answer(progress, is_correct)
+        if len(progress["seen"]) >= len(
+            context.application.bot_data["units"].get(context.user_data.get("selected_unit"), {}).get("words", [])
+        ):
+            await update.message.reply_text(
+                f"🎉 урок-{context.user_data.get('selected_unit')} tugadi!\n"
+                f"Siz {int(progress['correct'])} ta so‘zni to‘g‘ri topdingiz.\n"
+                f"Jami: {get_score_summary(progress)}"
+            )
+            await finish_unit(update, context)
+            return
+
     pos = word.get("pos")
     description = word.get("description")
     details = [result]
+    if progress is not None:
+        details.append(get_score_summary(progress))
     if pos:
         details.append(f"📝 So‘z turkumi: {pos}")
     if description:
