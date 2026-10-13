@@ -1,0 +1,2583 @@
+{
+  "meta": {
+    "language_pair": "ru-uz",
+    "total_units": 12,
+    "total_words": 354
+  },
+  "units": [
+    {
+      "unit": 1,
+      "title": "Будущее время (Kelasi zamon)",
+      "source": "Завтра_Erta_Ertaga_Буду_Bo_laman_Отдыхать_Dam_olmoq_Пойду_Boraman.pdf",
+      "count": 29,
+      "words": [
+        {
+          "id": "1-1",
+          "ru": "Завтра",
+          "uz": "Erta/Ertaga",
+          "pos": "ravish",
+          "description": "Bugundan keyingi kun. Завтра я буду дома. — Ertaga uyda bo'laman."
+        },
+        {
+          "id": "1-2",
+          "ru": "Буду",
+          "uz": "Bo'laman",
+          "pos": "fe'l",
+          "description": "«быть» fe'lining kelasi zamon shakli (men). Я буду учиться. — Men o'qiyman."
+        },
+        {
+          "id": "1-3",
+          "ru": "Отдыхать",
+          "uz": "Dam olmoq",
+          "pos": "fe'l",
+          "description": "Charchoqni yozish, dam olish. Я хочу отдыхать. — Men dam olmoqchiman."
+        },
+        {
+          "id": "1-4",
+          "ru": "Пойду",
+          "uz": "Boraman",
+          "pos": "fe'l",
+          "description": "«пойти» (piyoda borish) ning kelasi zamon shakli. Завтра я пойду в школу. — Ertaga maktabga boraman."
+        },
+        {
+          "id": "1-5",
+          "ru": "Читать",
+          "uz": "O'qimoq",
+          "pos": "fe'l",
+          "description": "Kitob yoki matn o'qish. Я люблю читать. — Men o'qishni yaxshi ko'raman."
+        },
+        {
+          "id": "1-6",
+          "ru": "Напишу",
+          "uz": "Yozaman",
+          "pos": "fe'l",
+          "description": "«написать» ning tugallangan kelasi zamon shakli. Я напишу письмо. — Men xat yozaman."
+        },
+        {
+          "id": "1-7",
+          "ru": "Письмо",
+          "uz": "Maktub",
+          "pos": "ot",
+          "description": "Qog'ozga yozilgan xabar, xat. Я получил письмо. — Men xat oldim."
+        },
+        {
+          "id": "1-8",
+          "ru": "Будем",
+          "uz": "Bo'lamiz",
+          "pos": "fe'l",
+          "description": "«быть» ning kelasi zamon shakli (biz). Мы будем дома. — Biz uyda bo'lamiz."
+        },
+        {
+          "id": "1-9",
+          "ru": "Ужинать",
+          "uz": "Kechki ovqatni yemoq",
+          "pos": "fe'l",
+          "description": "Kechqurun ovqatlanish. Мы будем ужинать в семь. — Biz soat yettida kechki ovqat yeymiz."
+        },
+        {
+          "id": "1-10",
+          "ru": "Отличный",
+          "uz": "Zo'r/A'lo",
+          "pos": "sifat",
+          "description": "Juda yaxshi, a'lo darajadagi. Отличный день! — Ajoyib kun!"
+        },
+        {
+          "id": "1-11",
+          "ru": "Скоро",
+          "uz": "Tezda/Yaqinda",
+          "pos": "ravish",
+          "description": "Yaqin vaqt ichida. Скоро каникулы. — Yaqinda ta'til."
+        },
+        {
+          "id": "1-12",
+          "ru": "Каникулы",
+          "uz": "Ta'til",
+          "pos": "ot (ko'plik)",
+          "description": "O'qish bo'lmaydigan davr. Летом у нас каникулы. — Yozda bizda ta'til."
+        },
+        {
+          "id": "1-13",
+          "ru": "Поедем",
+          "uz": "Boramiz (transportda)",
+          "pos": "fe'l",
+          "description": "«поехать» ning biz shakli. Мы поедем на море. — Biz dengizga boramiz."
+        },
+        {
+          "id": "1-14",
+          "ru": "Море",
+          "uz": "Dengiz",
+          "pos": "ot",
+          "description": "Katta sho'r suv havzasi. Мы любим море. — Biz dengizni yaxshi ko'ramiz."
+        },
+        {
+          "id": "1-15",
+          "ru": "Плавать",
+          "uz": "Suzmoq",
+          "pos": "fe'l",
+          "description": "Suvda harakatlanish. Я умею плавать. — Men suzishni bilaman."
+        },
+        {
+          "id": "1-16",
+          "ru": "Загорать",
+          "uz": "Quyoshda toblanmoq",
+          "pos": "fe'l",
+          "description": "Quyosh nurida terini qoraytirish. Мы будем загорать на пляже. — Biz plyajda quyoshda toblanamiz."
+        },
+        {
+          "id": "1-17",
+          "ru": "Куплю",
+          "uz": "Sotib olaman",
+          "pos": "fe'l",
+          "description": "«купить» ning kelasi zamon shakli. Я куплю подарок. — Men sovg'a sotib olaman."
+        },
+        {
+          "id": "1-18",
+          "ru": "Сувениры",
+          "uz": "Suvenirlar",
+          "pos": "ot (ko'plik)",
+          "description": "Esdalik sovg'alar. Я куплю сувениры. — Men suvenirlar sotib olaman."
+        },
+        {
+          "id": "1-19",
+          "ru": "Приедет",
+          "uz": "Keladi (transportda)",
+          "pos": "fe'l",
+          "description": "«приехать» ning u shakli. Брат приедет завтра. — Akam ertaga keladi."
+        },
+        {
+          "id": "1-20",
+          "ru": "Обедать",
+          "uz": "Tushlik qilmoq",
+          "pos": "fe'l",
+          "description": "Kunduzgi ovqatni yeyish. Мы будем обедать дома. — Biz uyda tushlik qilamiz."
+        },
+        {
+          "id": "1-21",
+          "ru": "Завтракать",
+          "uz": "Nonushta qilmoq",
+          "pos": "fe'l",
+          "description": "Ertalabki ovqatni yeyish. Я люблю завтракать рано. — Men erta nonushta qilishni yaxshi ko'raman."
+        },
+        {
+          "id": "1-22",
+          "ru": "Посмотрю",
+          "uz": "Ko'raman",
+          "pos": "fe'l",
+          "description": "«посмотреть» ning kelasi zamon shakli. Я посмотрю фильм. — Men film ko'raman."
+        },
+        {
+          "id": "1-23",
+          "ru": "Сделаю",
+          "uz": "Qilaman",
+          "pos": "fe'l",
+          "description": "«сделать» ning kelasi zamon shakli. Я сделаю уроки. — Men uy vazifasini qilaman."
+        },
+        {
+          "id": "1-24",
+          "ru": "Встречаю",
+          "uz": "Kutib olaman",
+          "pos": "fe'l",
+          "description": "Kelayotgan odamni kutib olish. Я встречаю друга. — Men do'stimni kutib olaman."
+        },
+        {
+          "id": "1-25",
+          "ru": "Позвоню",
+          "uz": "Qo'ng'iroq qilaman",
+          "pos": "fe'l",
+          "description": "«позвонить» ning kelasi zamon shakli. Я позвоню маме. — Men onamga qo'ng'iroq qilaman."
+        },
+        {
+          "id": "1-26",
+          "ru": "Рассказываю",
+          "uz": "Aytib beraman",
+          "pos": "fe'l",
+          "description": "Biror narsa haqida hikoya qilish. Я рассказываю новость. — Men yangilikni aytib beryapman."
+        },
+        {
+          "id": "1-27",
+          "ru": "Принесу",
+          "uz": "Olib kelaman",
+          "pos": "fe'l",
+          "description": "«принести» ning kelasi zamon shakli. Я принесу книгу. — Men kitob olib kelaman."
+        },
+        {
+          "id": "1-28",
+          "ru": "Узнаю",
+          "uz": "Bilib olaman",
+          "pos": "fe'l",
+          "description": "«узнать» ning kelasi zamon shakli. Я узнаю адрес. — Men manzilni bilib olaman."
+        },
+        {
+          "id": "1-29",
+          "ru": "Помогаю",
+          "uz": "Yordam beraman",
+          "pos": "fe'l",
+          "description": "Birovga ko'maklashish. Я помогаю маме. — Men onamga yordam beraman."
+        }
+      ]
+    },
+    {
+      "unit": 2,
+      "title": "Предметы, семья, местоимения (Narsalar, oila, olmoshlar)",
+      "source": "Комната_Xona_Лампа_Lampa_Книги_Kitoblar_Ручки_Ruchkalar_Новый_Yangi.pdf",
+      "count": 30,
+      "words": [
+        {
+          "id": "2-1",
+          "ru": "Комната",
+          "uz": "Xona",
+          "pos": "ot",
+          "description": "Uyning bir qismi. Моя комната маленькая. — Mening xonam kichkina."
+        },
+        {
+          "id": "2-2",
+          "ru": "Лампа",
+          "uz": "Lampa",
+          "pos": "ot",
+          "description": "Yoritish uchun asbob. На столе лампа. — Stolda lampa bor."
+        },
+        {
+          "id": "2-3",
+          "ru": "Книги",
+          "uz": "Kitoblar",
+          "pos": "ot (ko'plik)",
+          "description": "«книга» ning ko'pligi. Здесь новые книги. — Bu yerda yangi kitoblar bor."
+        },
+        {
+          "id": "2-4",
+          "ru": "Ручки",
+          "uz": "Ruchkalar",
+          "pos": "ot (ko'plik)",
+          "description": "«ручка» ning ko'pligi. У меня две ручки. — Menda ikkita ruchka bor."
+        },
+        {
+          "id": "2-5",
+          "ru": "Новый",
+          "uz": "Yangi",
+          "pos": "sifat",
+          "description": "Yaqinda paydo bo'lgan. Это новый стул. — Bu yangi stul."
+        },
+        {
+          "id": "2-6",
+          "ru": "Семья",
+          "uz": "Oila",
+          "pos": "ot",
+          "description": "Yaqin qarindoshlar guruhi. У меня большая семья. — Mening oilam katta."
+        },
+        {
+          "id": "2-7",
+          "ru": "Студентка",
+          "uz": "Talaba (qiz)",
+          "pos": "ot",
+          "description": "Oliy o'quv yurtida o'qiydigan qiz. Она студентка. — U talaba qiz."
+        },
+        {
+          "id": "2-8",
+          "ru": "Брат",
+          "uz": "Aka/Uka",
+          "pos": "ot",
+          "description": "Erkak tug'ishgan. Мой брат учится. — Akam/ukam o'qiyapti."
+        },
+        {
+          "id": "2-9",
+          "ru": "Друзья",
+          "uz": "Do'stlar",
+          "pos": "ot (ko'plik)",
+          "description": "«друг» ning ko'pligi. Мои друзья дома. — Do'stlarim uyda."
+        },
+        {
+          "id": "2-10",
+          "ru": "Кот",
+          "uz": "Mushuk",
+          "pos": "ot",
+          "description": "Erkak mushuk. Кот спит. — Mushuk uxlayapti."
+        },
+        {
+          "id": "2-11",
+          "ru": "Маленький",
+          "uz": "Kichkina",
+          "pos": "sifat",
+          "description": "Hajmi kichik. Это маленький кот. — Bu kichkina mushuk."
+        },
+        {
+          "id": "2-12",
+          "ru": "Красивый",
+          "uz": "Chiroyli",
+          "pos": "sifat",
+          "description": "Ko'rinishi yoqimli. Красивый город. — Chiroyli shahar."
+        },
+        {
+          "id": "2-13",
+          "ru": "Я",
+          "uz": "Men",
+          "pos": "olmosh",
+          "description": "Birinchi shaxs, birlik. Я студент. — Men talabaman."
+        },
+        {
+          "id": "2-14",
+          "ru": "Он",
+          "uz": "U (erkak)",
+          "pos": "olmosh",
+          "description": "Erkak jinsdagi uchinchi shaxs. Он дома. — U uyda."
+        },
+        {
+          "id": "2-15",
+          "ru": "Она",
+          "uz": "U (ayol)",
+          "pos": "olmosh",
+          "description": "Ayol jinsdagi uchinchi shaxs. Она студентка. — U talaba."
+        },
+        {
+          "id": "2-16",
+          "ru": "Оно",
+          "uz": "U (o'rta jins)",
+          "pos": "olmosh",
+          "description": "O'rta jinsdagi narsa uchun. Окно большое, оно новое. — Deraza katta, u yangi."
+        },
+        {
+          "id": "2-17",
+          "ru": "Мы",
+          "uz": "Biz",
+          "pos": "olmosh",
+          "description": "Birinchi shaxs, ko'plik. Мы дома. — Biz uyda."
+        },
+        {
+          "id": "2-18",
+          "ru": "Вы",
+          "uz": "Siz",
+          "pos": "olmosh",
+          "description": "Ikkinchi shaxs ko'plik yoki hurmat shakli. Вы студент? — Siz talabamisiz?"
+        },
+        {
+          "id": "2-19",
+          "ru": "Они",
+          "uz": "Ular",
+          "pos": "olmosh",
+          "description": "Uchinchi shaxs, ko'plik. Они друзья. — Ular do'st."
+        },
+        {
+          "id": "2-20",
+          "ru": "Стоять",
+          "uz": "Turmoq",
+          "pos": "fe'l",
+          "description": "Tik holatda bo'lish; narsa joylashgan. Стул стоит у стола. — Stul stol yonida turibdi."
+        },
+        {
+          "id": "2-21",
+          "ru": "Стул",
+          "uz": "Stul",
+          "pos": "ot",
+          "description": "O'tirish uchun mebel. Это мой стул. — Bu mening stulim."
+        },
+        {
+          "id": "2-22",
+          "ru": "Шкаф",
+          "uz": "Shkaf",
+          "pos": "ot",
+          "description": "Kiyim yoki kitob saqlanadigan mebel. Книги в шкафу. — Kitoblar shkafda."
+        },
+        {
+          "id": "2-23",
+          "ru": "Кровать",
+          "uz": "Karavot",
+          "pos": "ot",
+          "description": "Uxlash uchun mebel. Кровать новая. — Karavot yangi."
+        },
+        {
+          "id": "2-24",
+          "ru": "Сестра",
+          "uz": "Opa-singil",
+          "pos": "ot",
+          "description": "Qiz tug'ishgan. Моя сестра студентка. — Opam/singlim talaba."
+        },
+        {
+          "id": "2-25",
+          "ru": "Сосед",
+          "uz": "Qo'shni",
+          "pos": "ot",
+          "description": "Yonda yashovchi odam (erkak). Мой сосед добрый. — Qo'shnim mehribon."
+        },
+        {
+          "id": "2-26",
+          "ru": "Город",
+          "uz": "Shahar",
+          "pos": "ot",
+          "description": "Katta aholi punkti. Это большой город. — Bu katta shahar."
+        },
+        {
+          "id": "2-27",
+          "ru": "Страна",
+          "uz": "Mamlakat",
+          "pos": "ot",
+          "description": "Davlat hududi. Моя страна красивая. — Mening mamlakatim go'zal."
+        },
+        {
+          "id": "2-28",
+          "ru": "Машина",
+          "uz": "Mashina",
+          "pos": "ot",
+          "description": "Avtomobil. Папа купил машину. — Dadam mashina sotib oldi."
+        },
+        {
+          "id": "2-29",
+          "ru": "Дети",
+          "uz": "Bolalar",
+          "pos": "ot (ko'plik)",
+          "description": "«ребёнок» ning ko'pligi. Дети играют. — Bolalar o'ynayapti."
+        },
+        {
+          "id": "2-30",
+          "ru": "Люди",
+          "uz": "Odamlar",
+          "pos": "ot (ko'plik)",
+          "description": "«человек» ning ko'pligi. Здесь много людей. — Bu yerda odam ko'p."
+        }
+      ]
+    },
+    {
+      "unit": 3,
+      "title": "Прошедшее время (O'tgan zamon)",
+      "source": "Отдыхал_Dam_oldi_Гулял_Sayr_qildi_Слушал_Tingladi_Сестра_Opa_Singil.pdf",
+      "count": 30,
+      "words": [
+        {
+          "id": "3-1",
+          "ru": "Отдыхал",
+          "uz": "Dam oldi",
+          "pos": "fe'l",
+          "description": "«отдыхать» ning o'tgan zamon shakli (erkak). Он отдыхал дома. — U uyda dam oldi."
+        },
+        {
+          "id": "3-2",
+          "ru": "Гулял",
+          "uz": "Sayr qildi",
+          "pos": "fe'l",
+          "description": "«гулять» ning o'tgan zamon shakli (erkak). Вчера я гулял в парке. — Kecha parkda sayr qildim."
+        },
+        {
+          "id": "3-3",
+          "ru": "Слушал",
+          "uz": "Tingladi",
+          "pos": "fe'l",
+          "description": "«слушать» ning o'tgan zamon shakli. Он слушал музыку. — U musiqa tingladi."
+        },
+        {
+          "id": "3-4",
+          "ru": "Сестра",
+          "uz": "Opa/Singil",
+          "pos": "ot",
+          "description": "Qiz tug'ishgan. Сестра была дома. — Opam/singlim uyda edi."
+        },
+        {
+          "id": "3-5",
+          "ru": "Готовила",
+          "uz": "Tayyorladi",
+          "pos": "fe'l",
+          "description": "«готовить» ning o'tgan zamon shakli (ayol). Сестра готовила обед. — Opam tushlik tayyorladi."
+        },
+        {
+          "id": "3-6",
+          "ru": "Обед",
+          "uz": "Tushlik",
+          "pos": "ot",
+          "description": "Kunduzgi ovqat. Обед был вкусный. — Tushlik mazali edi."
+        },
+        {
+          "id": "3-7",
+          "ru": "Обедали",
+          "uz": "Tushlik qildilar",
+          "pos": "fe'l",
+          "description": "«обедать» ning o'tgan zamon shakli (ko'plik). Мы обедали вместе. — Biz birga tushlik qildik."
+        },
+        {
+          "id": "3-8",
+          "ru": "Вместе",
+          "uz": "Birga",
+          "pos": "ravish",
+          "description": "Bir paytda, hamkorlikda. Мы гуляли вместе. — Biz birga sayr qildik."
+        },
+        {
+          "id": "3-9",
+          "ru": "Суббота",
+          "uz": "Shanba",
+          "pos": "ot",
+          "description": "Haftaning oltinchi kuni. В субботу мы отдыхали. — Shanba kuni biz dam oldik."
+        },
+        {
+          "id": "3-10",
+          "ru": "Был",
+          "uz": "Bo'ldi (erkak)",
+          "pos": "fe'l",
+          "description": "«быть» ning o'tgan zamon shakli, erkak jins. Он был дома. — U uyda edi."
+        },
+        {
+          "id": "3-11",
+          "ru": "Была",
+          "uz": "Bo'ldi (ayol)",
+          "pos": "fe'l",
+          "description": "«быть» ning o'tgan zamon shakli, ayol jins. Она была дома. — U uyda edi."
+        },
+        {
+          "id": "3-12",
+          "ru": "Было",
+          "uz": "Bo'ldi (o'rta jins)",
+          "pos": "fe'l",
+          "description": "«быть» ning o'tgan zamon shakli, o'rta jins. Окно было открыто. — Deraza ochiq edi."
+        },
+        {
+          "id": "3-13",
+          "ru": "Читал",
+          "uz": "O'qigan",
+          "pos": "fe'l",
+          "description": "«читать» ning o'tgan zamon shakli. Я читал книгу. — Men kitob o'qidim."
+        },
+        {
+          "id": "3-14",
+          "ru": "Писал",
+          "uz": "Yozgan",
+          "pos": "fe'l",
+          "description": "«писать» ning o'tgan zamon shakli. Он писал письмо. — U xat yozdi."
+        },
+        {
+          "id": "3-15",
+          "ru": "Видел",
+          "uz": "Ko'rgan",
+          "pos": "fe'l",
+          "description": "«видеть» ning o'tgan zamon shakli. Я видел его вчера. — Men uni kecha ko'rdim."
+        },
+        {
+          "id": "3-16",
+          "ru": "Были",
+          "uz": "Bo'ldilar",
+          "pos": "fe'l",
+          "description": "«быть» ning o'tgan zamon shakli, ko'plik. Мы были дома. — Biz uyda edik."
+        },
+        {
+          "id": "3-17",
+          "ru": "Погода",
+          "uz": "Ob-havo",
+          "pos": "ot",
+          "description": "Havoning holati. Погода была хорошая. — Ob-havo yaxshi edi."
+        },
+        {
+          "id": "3-18",
+          "ru": "Смеялись",
+          "uz": "Kulishdi",
+          "pos": "fe'l",
+          "description": "«смеяться» ning o'tgan zamon shakli, ko'plik. Мы весело смеялись. — Biz quvnoq kuldik."
+        },
+        {
+          "id": "3-19",
+          "ru": "Приятный",
+          "uz": "Yoqimli",
+          "pos": "sifat",
+          "description": "Kishiga yoqadigan. Это был приятный вечер. — Bu yoqimli kech edi."
+        },
+        {
+          "id": "3-20",
+          "ru": "Ходил",
+          "uz": "Bordi",
+          "pos": "fe'l",
+          "description": "«ходить» (piyoda) ning o'tgan zamon shakli. Он ходил в магазин. — U do'konga bordi."
+        },
+        {
+          "id": "3-21",
+          "ru": "Ездил",
+          "uz": "Bordi (transportda)",
+          "pos": "fe'l",
+          "description": "«ездить» (transportda) ning o'tgan zamon shakli. Я ездил в город. — Men shaharga bordim."
+        },
+        {
+          "id": "3-22",
+          "ru": "Спал",
+          "uz": "Uxlagan",
+          "pos": "fe'l",
+          "description": "«спать» ning o'tgan zamon shakli. Он долго спал. — U uzoq uxladi."
+        },
+        {
+          "id": "3-23",
+          "ru": "Играл",
+          "uz": "O'ynagan",
+          "pos": "fe'l",
+          "description": "«играть» ning o'tgan zamon shakli. Брат играл на улице. — Akam ko'chada o'ynadi."
+        },
+        {
+          "id": "3-24",
+          "ru": "Понимал",
+          "uz": "Tushungan",
+          "pos": "fe'l",
+          "description": "«понимать» ning o'tgan zamon shakli. Я всё понимал. — Men hammasini tushundim."
+        },
+        {
+          "id": "3-25",
+          "ru": "Знал",
+          "uz": "Bilgan",
+          "pos": "fe'l",
+          "description": "«знать» ning o'tgan zamon shakli. Он знал ответ. — U javobni bilardi."
+        },
+        {
+          "id": "3-26",
+          "ru": "Хотел",
+          "uz": "Xohlagan",
+          "pos": "fe'l",
+          "description": "«хотеть» ning o'tgan zamon shakli. Я хотел отдохнуть. — Men dam olmoqchi edim."
+        },
+        {
+          "id": "3-27",
+          "ru": "Жил",
+          "uz": "Yashagan",
+          "pos": "fe'l",
+          "description": "«жить» ning o'tgan zamon shakli. Он жил в городе. — U shaharda yashagan."
+        },
+        {
+          "id": "3-28",
+          "ru": "Работал",
+          "uz": "Ishlagan",
+          "pos": "fe'l",
+          "description": "«работать» ning o'tgan zamon shakli. Папа работал вчера. — Dadam kecha ishladi."
+        },
+        {
+          "id": "3-29",
+          "ru": "Помнил",
+          "uz": "Eslagan",
+          "pos": "fe'l",
+          "description": "«помнить» ning o'tgan zamon shakli. Я помнил его имя. — Men uning ismini eslab turardim."
+        },
+        {
+          "id": "3-30",
+          "ru": "Сказал",
+          "uz": "Aytdi",
+          "pos": "fe'l",
+          "description": "«сказать» ning o'tgan zamon shakli. Он сказал правду. — U haqiqatni aytdi."
+        }
+      ]
+    },
+    {
+      "unit": 4,
+      "title": "Вещи и притяжательные местоимения (Narsalar va egalik olmoshlari)",
+      "source": "Рюкзак_Ryukzak_Тетрадь_Daftar_Фото_Foto_Surat_Вещь_Narsa_Мой_Mening.pdf",
+      "count": 29,
+      "words": [
+        {
+          "id": "4-1",
+          "ru": "Рюкзак",
+          "uz": "Ryukzak",
+          "pos": "ot",
+          "description": "Yelkaga osiladigan sumka. Мой рюкзак новый. — Mening ryukzagim yangi."
+        },
+        {
+          "id": "4-2",
+          "ru": "Тетрадь",
+          "uz": "Daftar",
+          "pos": "ot",
+          "description": "Yozish uchun daftar. Это моя тетрадь. — Bu mening daftarim."
+        },
+        {
+          "id": "4-3",
+          "ru": "Фото",
+          "uz": "Foto/Surat",
+          "pos": "ot",
+          "description": "Fotosurat. Это фото моей семьи. — Bu oilamning surati."
+        },
+        {
+          "id": "4-4",
+          "ru": "Вещь",
+          "uz": "Narsa",
+          "pos": "ot",
+          "description": "Predmet, buyum. Это моя вещь. — Bu mening narsam."
+        },
+        {
+          "id": "4-5",
+          "ru": "Мой",
+          "uz": "Mening (erkak jinsi)",
+          "pos": "olmosh",
+          "description": "Menga tegishli (erkak jinsdagi ot bilan). Это мой рюкзак. — Bu mening ryukzagim."
+        },
+        {
+          "id": "4-6",
+          "ru": "Твой",
+          "uz": "Sening (erkak jinsi)",
+          "pos": "olmosh",
+          "description": "Senga tegishli (erkak jinsdagi ot bilan). Это твой ключ? — Bu seningcha kalitmi?"
+        },
+        {
+          "id": "4-7",
+          "ru": "Наш",
+          "uz": "Bizning (erkak jinsi)",
+          "pos": "olmosh",
+          "description": "Bizga tegishli (erkak jinsdagi ot bilan). Это наш дом. — Bu bizning uyimiz."
+        },
+        {
+          "id": "4-8",
+          "ru": "Ваш",
+          "uz": "Sizning (erkak jinsi)",
+          "pos": "olmosh",
+          "description": "Sizga tegishli (erkak jinsdagi ot bilan). Где ваш адрес? — Manzilingiz qayerda?"
+        },
+        {
+          "id": "4-9",
+          "ru": "Его",
+          "uz": "Uning (erkak jinsi)",
+          "pos": "olmosh",
+          "description": "Erkakka tegishli; o'zgarmaydi. Это его книга. — Bu uning kitobi."
+        },
+        {
+          "id": "4-10",
+          "ru": "Её",
+          "uz": "Uning (ayol jinsi)",
+          "pos": "olmosh",
+          "description": "Ayolga tegishli; o'zgarmaydi. Это её сумка. — Bu uning sumkasi."
+        },
+        {
+          "id": "4-11",
+          "ru": "Их",
+          "uz": "Ularning",
+          "pos": "olmosh",
+          "description": "Ularga tegishli; o'zgarmaydi. Это их дом. — Bu ularning uyi."
+        },
+        {
+          "id": "4-12",
+          "ru": "Сад",
+          "uz": "Bog'",
+          "pos": "ot",
+          "description": "Daraxtlar o'sadigan joy. Наш сад большой. — Bizning bog'imiz katta."
+        },
+        {
+          "id": "4-13",
+          "ru": "Большой",
+          "uz": "Katta",
+          "pos": "sifat",
+          "description": "Hajmi katta. Это большой дом. — Bu katta uy."
+        },
+        {
+          "id": "4-14",
+          "ru": "Подруга",
+          "uz": "Dugona",
+          "pos": "ot",
+          "description": "Ayol do'st. Она моя подруга. — U mening dugonam."
+        },
+        {
+          "id": "4-15",
+          "ru": "Работа",
+          "uz": "Ish",
+          "pos": "ot",
+          "description": "Mehnat faoliyati. У папы новая работа. — Dadamning yangi ishi bor."
+        },
+        {
+          "id": "4-16",
+          "ru": "Встреча",
+          "uz": "Uchrashuv",
+          "pos": "ot",
+          "description": "Kishilar yig'ilishi. Завтра важная встреча. — Ertaga muhim uchrashuv."
+        },
+        {
+          "id": "4-17",
+          "ru": "Вечер",
+          "uz": "Oqshom",
+          "pos": "ot",
+          "description": "Kunning kechki qismi. Вечер был тёплый. — Oqshom iliq edi."
+        },
+        {
+          "id": "4-18",
+          "ru": "Сегодня",
+          "uz": "Bugun",
+          "pos": "ravish",
+          "description": "Hozirgi kun. Сегодня я дома. — Bugun men uyda."
+        },
+        {
+          "id": "4-19",
+          "ru": "Место",
+          "uz": "Joy",
+          "pos": "ot",
+          "description": "Joylashgan o'rin. Это моё место. — Bu mening joyim."
+        },
+        {
+          "id": "4-20",
+          "ru": "Гости",
+          "uz": "Mehmonlar",
+          "pos": "ot (ko'plik)",
+          "description": "Chaqirilgan odamlar. Сегодня у нас гости. — Bugun bizda mehmonlar bor."
+        },
+        {
+          "id": "4-21",
+          "ru": "Ключ",
+          "uz": "Kalit",
+          "pos": "ot",
+          "description": "Eshikni ochadigan buyum. Где мой ключ? — Mening kalitim qayerda?"
+        },
+        {
+          "id": "4-22",
+          "ru": "Кошелек",
+          "uz": "Hamyon",
+          "pos": "ot",
+          "description": "Pul solinadigan buyum. Мой кошелёк в рюкзаке. — Hamyonim ryukzakda."
+        },
+        {
+          "id": "4-23",
+          "ru": "Часы",
+          "uz": "Soat",
+          "pos": "ot (ko'plik)",
+          "description": "Vaqtni ko'rsatuvchi asbob. У него новые часы. — Uning yangi soati bor."
+        },
+        {
+          "id": "4-24",
+          "ru": "Очки",
+          "uz": "Ko'zoynak",
+          "pos": "ot (ko'plik)",
+          "description": "Ko'rishni yaxshilovchi buyum. Это мои очки. — Bu mening ko'zoynagim."
+        },
+        {
+          "id": "4-25",
+          "ru": "Имя",
+          "uz": "Ism",
+          "pos": "ot",
+          "description": "Odamning shaxsiy nomi. Как ваше имя? — Ismingiz nima?"
+        },
+        {
+          "id": "4-26",
+          "ru": "Фамилия",
+          "uz": "Familiya",
+          "pos": "ot",
+          "description": "Oila nomi. Моя фамилия Иванов. — Mening familiyam Ivanov."
+        },
+        {
+          "id": "4-27",
+          "ru": "Адрес",
+          "uz": "Manzil",
+          "pos": "ot",
+          "description": "Yashash joyi ko'rsatkichi. Какой ваш адрес? — Manzilingiz qanday?"
+        },
+        {
+          "id": "4-28",
+          "ru": "Почта",
+          "uz": "Pochta",
+          "pos": "ot",
+          "description": "Xat-xabar xizmati. Письмо на почте. — Xat pochtada."
+        },
+        {
+          "id": "4-29",
+          "ru": "Номер",
+          "uz": "Raqam",
+          "pos": "ot",
+          "description": "Tartib belgisi. Мой номер телефона новый. — Mening telefon raqamim yangi."
+        }
+      ]
+    },
+    {
+      "unit": 5,
+      "title": "Настоящее время (Hozirgi zamon)",
+      "source": "Слушаем_Tinglayapmiz_Родители_Ota_onalar_Смотрят_Ko_rishyapti_Новости.pdf",
+      "count": 30,
+      "words": [
+        {
+          "id": "5-1",
+          "ru": "Слушаем",
+          "uz": "Tinglayapmiz",
+          "pos": "fe'l",
+          "description": "«слушать» ning hozirgi zamon shakli (biz). Мы слушаем музыку. — Biz musiqa tinglayapmiz."
+        },
+        {
+          "id": "5-2",
+          "ru": "Родители",
+          "uz": "Ota-onalar",
+          "pos": "ot (ko'plik)",
+          "description": "Ota va ona. Мои родители дома. — Ota-onam uyda."
+        },
+        {
+          "id": "5-3",
+          "ru": "Смотрят",
+          "uz": "Ko'rishyapti",
+          "pos": "fe'l",
+          "description": "«смотреть» ning hozirgi zamon shakli (ular). Они смотрят телевизор. — Ular televizor ko'ryapti."
+        },
+        {
+          "id": "5-4",
+          "ru": "Новости",
+          "uz": "Yangiliklar",
+          "pos": "ot (ko'plik)",
+          "description": "Yangi xabarlar. Мы смотрим новости. — Biz yangiliklarni ko'ryapmiz."
+        },
+        {
+          "id": "5-5",
+          "ru": "Живём",
+          "uz": "Yashayapmiz",
+          "pos": "fe'l",
+          "description": "«жить» ning hozirgi zamon shakli (biz). Мы живём в городе. — Biz shaharda yashayapmiz."
+        },
+        {
+          "id": "5-6",
+          "ru": "Дружно",
+          "uz": "Inoq",
+          "pos": "ravish",
+          "description": "Bir-biriga hamjihat holda. Мы живём дружно. — Biz inoq yashaymiz."
+        },
+        {
+          "id": "5-7",
+          "ru": "Гуляю",
+          "uz": "Sayr qilyapman",
+          "pos": "fe'l",
+          "description": "«гулять» ning hozirgi zamon shakli (men). Я гуляю в парке. — Men parkda sayr qilyapman."
+        },
+        {
+          "id": "5-8",
+          "ru": "Пишу",
+          "uz": "Yozyapman",
+          "pos": "fe'l",
+          "description": "«писать» ning hozirgi zamon shakli (men). Я пишу письмо. — Men xat yozyapman."
+        },
+        {
+          "id": "5-9",
+          "ru": "Рисую",
+          "uz": "Rasim chizyapman",
+          "pos": "fe'l",
+          "description": "«рисовать» ning hozirgi zamon shakli (men). Я рисую дом. — Men uy rasmini chizyapman."
+        },
+        {
+          "id": "5-10",
+          "ru": "Танцую",
+          "uz": "Raqsga tushyapman",
+          "pos": "fe'l",
+          "description": "«танцевать» ning hozirgi zamon shakli (men). Я танцую с подругой. — Men dugonam bilan raqsga tushyapman."
+        },
+        {
+          "id": "5-11",
+          "ru": "Понимаю",
+          "uz": "Tushunyapman",
+          "pos": "fe'l",
+          "description": "«понимать» ning hozirgi zamon shakli (men). Я понимаю урок. — Men darsni tushunyapman."
+        },
+        {
+          "id": "5-12",
+          "ru": "Знаю",
+          "uz": "Bilyapman",
+          "pos": "fe'l",
+          "description": "«знать» ning hozirgi zamon shakli (men). Я знаю ответ. — Men javobni bilaman."
+        },
+        {
+          "id": "5-13",
+          "ru": "Помогаю",
+          "uz": "Yordam beryapman",
+          "pos": "fe'l",
+          "description": "«помогать» ning hozirgi zamon shakli (men). Я помогаю маме. — Men onamga yordam beryapman."
+        },
+        {
+          "id": "5-14",
+          "ru": "Готовлю",
+          "uz": "Tayyorlayapman",
+          "pos": "fe'l",
+          "description": "«готовить» ning hozirgi zamon shakli (men). Я готовлю обед. — Men tushlik tayyorlayapman."
+        },
+        {
+          "id": "5-15",
+          "ru": "Держу",
+          "uz": "Ushlab turibman",
+          "pos": "fe'l",
+          "description": "«держать» ning hozirgi zamon shakli (men). Я держу ключ. — Men kalitni ushlab turibman."
+        },
+        {
+          "id": "5-16",
+          "ru": "Иду",
+          "uz": "Borayapman",
+          "pos": "fe'l",
+          "description": "«идти» (piyoda) ning hozirgi zamon shakli (men). Я иду в школу. — Men maktabga ketyapman."
+        },
+        {
+          "id": "5-17",
+          "ru": "Учусь",
+          "uz": "o'qiyapman",
+          "pos": "fe'l",
+          "description": "«учиться» ning hozirgi zamon shakli (men). Я учусь в школе. — Men maktabda o'qiyapman."
+        },
+        {
+          "id": "5-18",
+          "ru": "Работает",
+          "uz": "Ishlayapti",
+          "pos": "fe'l",
+          "description": "«работать» ning hozirgi zamon shakli (u). Папа работает. — Dadam ishlayapti."
+        },
+        {
+          "id": "5-19",
+          "ru": "Встречаемся",
+          "uz": "Uchrashyapmiz",
+          "pos": "fe'l",
+          "description": "«встречаться» ning hozirgi zamon shakli (biz). Мы встречаемся в кафе. — Biz kafeda uchrashyapmiz."
+        },
+        {
+          "id": "5-20",
+          "ru": "Кафе",
+          "uz": "Kafe",
+          "pos": "ot",
+          "description": "Ovqatlanish joyi. Мы в кафе. — Biz kafedamiz."
+        },
+        {
+          "id": "5-21",
+          "ru": "Пьём",
+          "uz": "Ichyapmiz",
+          "pos": "fe'l",
+          "description": "«пить» ning hozirgi zamon shakli (biz). Мы пьём чай. — Biz choy ichyapmiz."
+        },
+        {
+          "id": "5-22",
+          "ru": "Чай",
+          "uz": "Choy",
+          "pos": "ot",
+          "description": "Issiq ichimlik. Я люблю зелёный чай. — Men ko'k choyni yaxshi ko'raman."
+        },
+        {
+          "id": "5-23",
+          "ru": "Разговариваем",
+          "uz": "Gaplashyapmiz",
+          "pos": "fe'l",
+          "description": "«разговаривать» ning hozirgi zamon shakli (biz). Мы разговариваем в кафе. — Biz kafeda gaplashyapmiz."
+        },
+        {
+          "id": "5-24",
+          "ru": "Люблю",
+          "uz": "Sevaman/Yaxshi ko'raman",
+          "pos": "fe'l",
+          "description": "«любить» ning hozirgi zamon shakli (men). Я люблю музыку. — Men musiqani yaxshi ko'raman."
+        },
+        {
+          "id": "5-25",
+          "ru": "Музыку",
+          "uz": "Musiqani",
+          "pos": "ot",
+          "description": "«музыка» ning tushum kelishigi. Я слушаю музыку. — Men musiqa tinglayman."
+        },
+        {
+          "id": "5-26",
+          "ru": "Играю",
+          "uz": "O'ynayapman",
+          "pos": "fe'l",
+          "description": "«играть» ning hozirgi zamon shakli (men). Я играю на гитаре. — Men gitarada chalyapman."
+        },
+        {
+          "id": "5-27",
+          "ru": "Поёт",
+          "uz": "Kuylayapti",
+          "pos": "fe'l",
+          "description": "«петь» ning hozirgi zamon shakli (u). Сестра поёт. — Opam qo'shiq aytyapti."
+        },
+        {
+          "id": "5-28",
+          "ru": "Продаю",
+          "uz": "Sotyapman",
+          "pos": "fe'l",
+          "description": "«продавать» ning hozirgi zamon shakli (men). Я продаю книги. — Men kitob sotyapman."
+        },
+        {
+          "id": "5-29",
+          "ru": "Сижу",
+          "uz": "O'tiribman",
+          "pos": "fe'l",
+          "description": "«сидеть» ning hozirgi zamon shakli (men). Я сижу дома. — Men uyda o'tiribman."
+        },
+        {
+          "id": "5-30",
+          "ru": "Работаю",
+          "uz": "Ishlayapman",
+          "pos": "fe'l",
+          "description": "«работать» ning hozirgi zamon shakli (men). Я работаю в офисе. — Men ofisda ishlayapman."
+        }
+      ]
+    },
+    {
+      "unit": 6,
+      "title": "Распорядок дня (Kun tartibi)",
+      "source": "Просыпаюсь_Uyg_onyapman_Рано_Vaqtli_Erta_Умываюсь_Yuvinyapman_Одеваюсь.pdf",
+      "count": 30,
+      "words": [
+        {
+          "id": "6-1",
+          "ru": "Просыпаюсь",
+          "uz": "Uyg'onyapman",
+          "pos": "fe'l",
+          "description": "Uyqudan turish. Я просыпаюсь в семь. — Men soat yettida uyg'onaman."
+        },
+        {
+          "id": "6-2",
+          "ru": "Рано",
+          "uz": "Vaqtli/Erta",
+          "pos": "ravish",
+          "description": "Belgilangan vaqtdan oldin. Я встаю рано. — Men erta turaman."
+        },
+        {
+          "id": "6-3",
+          "ru": "Умываюсь",
+          "uz": "Yuvinyapman",
+          "pos": "fe'l",
+          "description": "Yuz-qo'lni yuvish. Я умываюсь утром. — Men ertalab yuzimni yuvaman."
+        },
+        {
+          "id": "6-4",
+          "ru": "Одеваюсь",
+          "uz": "Kiyinyapman",
+          "pos": "fe'l",
+          "description": "Kiyim kiyish. Я быстро одеваюсь. — Men tez kiyinaman."
+        },
+        {
+          "id": "6-5",
+          "ru": "Потом",
+          "uz": "Keyin",
+          "pos": "ravish",
+          "description": "Ketma-ketlikda keyingi harakat. Потом я завтракаю. — Keyin nonushta qilaman."
+        },
+        {
+          "id": "6-6",
+          "ru": "Причёсываюсь",
+          "uz": "Taranyapman",
+          "pos": "fe'l",
+          "description": "Sochni tarash. Я причёсываюсь перед зеркалом. — Men oyna oldida sochimni taranayman."
+        },
+        {
+          "id": "6-7",
+          "ru": "Тоже",
+          "uz": "Ham",
+          "pos": "ravish",
+          "description": "Xuddi shunday, ham. Я тоже учусь. — Men ham o'qiyman."
+        },
+        {
+          "id": "6-8",
+          "ru": "Быстро",
+          "uz": "Tez",
+          "pos": "ravish",
+          "description": "Katta tezlikda. Я быстро собираюсь. — Men tez tayyorlanaman."
+        },
+        {
+          "id": "6-9",
+          "ru": "Собираюсь",
+          "uz": "Tayyorlanyapman",
+          "pos": "fe'l",
+          "description": "Biror ishga tayyorlanish. Я собираюсь в школу. — Men maktabga tayyorlanyapman."
+        },
+        {
+          "id": "6-10",
+          "ru": "Остановке",
+          "uz": "Bekatda",
+          "pos": "ot",
+          "description": "«остановка» ning predlog kelishigi. Я на остановке. — Men bekatdaman."
+        },
+        {
+          "id": "6-11",
+          "ru": "Начинаются",
+          "uz": "Boshlanyapti",
+          "pos": "fe'l",
+          "description": "«начинаться» ning hozirgi zamon shakli (ko'plik). Уроки начинаются в девять. — Darslar soat to'qqizda boshlanadi."
+        },
+        {
+          "id": "6-12",
+          "ru": "Возвращаюсь",
+          "uz": "Qaytyapman",
+          "pos": "fe'l",
+          "description": "Orqaga qaytish. Я возвращаюсь вечером. — Men kechqurun qaytaman."
+        },
+        {
+          "id": "6-13",
+          "ru": "Домой",
+          "uz": "Uyga",
+          "pos": "ravish",
+          "description": "Uy tomonga. Я иду домой. — Men uyga ketyapman."
+        },
+        {
+          "id": "6-14",
+          "ru": "Раздеваюсь",
+          "uz": "Kiyimni yechyapman",
+          "pos": "fe'l",
+          "description": "Kiyimni yechish. Я раздеваюсь дома. — Men uyda kiyimimni yechaman."
+        },
+        {
+          "id": "6-15",
+          "ru": "Моюсь",
+          "uz": "Yuvinyapman",
+          "pos": "fe'l",
+          "description": "Tanani yuvish. Я моюсь вечером. — Men kechqurun yuvinaman."
+        },
+        {
+          "id": "6-16",
+          "ru": "Ложусь",
+          "uz": "Yotyapman",
+          "pos": "fe'l",
+          "description": "Yotish, yotib dam olish. Я ложусь в десять. — Men soat o'nda yotaman."
+        },
+        {
+          "id": "6-17",
+          "ru": "Спать",
+          "uz": "Uxlamoq",
+          "pos": "fe'l",
+          "description": "Uyquga ketish. Я хочу спать. — Men uxlamoqchiman."
+        },
+        {
+          "id": "6-18",
+          "ru": "Кошка",
+          "uz": "Mushuk",
+          "pos": "ot",
+          "description": "Urg'ochi mushuk. Кошка спит. — Mushuk uxlayapti."
+        },
+        {
+          "id": "6-19",
+          "ru": "Радуемся",
+          "uz": "Quvonyapmiz",
+          "pos": "fe'l",
+          "description": "«радоваться» ning hozirgi zamon shakli (biz). Мы радуемся выходным. — Biz dam olish kunlariga quvonyapmiz."
+        },
+        {
+          "id": "6-20",
+          "ru": "Выходные",
+          "uz": "Dam olish kunlari",
+          "pos": "ot (ko'plik)",
+          "description": "Shanba va yakshanba. В выходные я отдыхаю. — Dam olish kunlari dam olaman."
+        },
+        {
+          "id": "6-21",
+          "ru": "Улыбаюсь",
+          "uz": "Jilmayyapman",
+          "pos": "fe'l",
+          "description": "Tabassum qilish. Я улыбаюсь другу. — Men do'stimga jilmayaman."
+        },
+        {
+          "id": "6-22",
+          "ru": "Смеюсь",
+          "uz": "Kulayapman",
+          "pos": "fe'l",
+          "description": "«смеяться» ning hozirgi zamon shakli (men). Я смеюсь над шуткой. — Men hazilga kulaman."
+        },
+        {
+          "id": "6-23",
+          "ru": "Учусь",
+          "uz": "O'qiyapman",
+          "pos": "fe'l",
+          "description": "«учиться» ning hozirgi zamon shakli (men). Я учусь в университете. — Men universitetda o'qiyman."
+        },
+        {
+          "id": "6-24",
+          "ru": "Занимаюсь",
+          "uz": "Shug'ullanyapman",
+          "pos": "fe'l",
+          "description": "Biror ish bilan shug'ullanish. Я занимаюсь спортом. — Men sport bilan shug'ullanaman."
+        },
+        {
+          "id": "6-25",
+          "ru": "Знакомлюсь",
+          "uz": "Tanishyapman",
+          "pos": "fe'l",
+          "description": "Yangi odam bilan tanishish. Я знакомлюсь с соседом. — Men qo'shnim bilan tanishyapman."
+        },
+        {
+          "id": "6-26",
+          "ru": "Кажусь",
+          "uz": "Tuyulyapman",
+          "pos": "fe'l",
+          "description": "Boshqalarga shunday ko'rinish. Я кажусь спокойным. — Men xotirjam ko'rinaman."
+        },
+        {
+          "id": "6-27",
+          "ru": "Нахожусь",
+          "uz": "Turibman/Joylashganman",
+          "pos": "fe'l",
+          "description": "Biror joyda bo'lish. Я нахожусь дома. — Men uydaman."
+        },
+        {
+          "id": "6-28",
+          "ru": "Ошибаюсь",
+          "uz": "Adashyapman",
+          "pos": "fe'l",
+          "description": "Xato qilish. Я иногда ошибаюсь. — Men ba'zan adashaman."
+        },
+        {
+          "id": "6-29",
+          "ru": "Стараюсь",
+          "uz": "Harakat qilyapman",
+          "pos": "fe'l",
+          "description": "Intilish, tirishish. Я стараюсь учиться хорошо. — Men yaxshi o'qishga harakat qilaman."
+        },
+        {
+          "id": "6-30",
+          "ru": "Боюсь",
+          "uz": "Qo'rqaman",
+          "pos": "fe'l",
+          "description": "Qo'rquv sezish. Я боюсь собак. — Men itlardan qo'rqaman."
+        }
+      ]
+    },
+    {
+      "unit": 7,
+      "title": "В школе и дома (Maktabda va uyda)",
+      "source": "Text2pdf_20261012_1841.pdf",
+      "count": 30,
+      "words": [
+        {
+          "id": "7-1",
+          "ru": "Дом",
+          "uz": "Uy",
+          "pos": "ot",
+          "description": "Yashash binosi. Это мой дом. — Bu mening uyim."
+        },
+        {
+          "id": "7-2",
+          "ru": "Мама",
+          "uz": "Ona",
+          "pos": "ot",
+          "description": "Ona. Мама дома. — Onam uyda."
+        },
+        {
+          "id": "7-3",
+          "ru": "Папа",
+          "uz": "Ota",
+          "pos": "ot",
+          "description": "Ota. Папа на работе. — Dadam ishda."
+        },
+        {
+          "id": "7-4",
+          "ru": "Кот",
+          "uz": "Mushuk (erkak)",
+          "pos": "ot",
+          "description": "Erkak mushuk. Кот на столе. — Mushuk stolda."
+        },
+        {
+          "id": "7-5",
+          "ru": "Собака",
+          "uz": "It",
+          "pos": "ot",
+          "description": "Uy hayvoni. У нас собака. — Bizda it bor."
+        },
+        {
+          "id": "7-6",
+          "ru": "Окно",
+          "uz": "Deraza",
+          "pos": "ot",
+          "description": "Devordagi yorug'lik uchun teshik. Окно открыто. — Deraza ochiq."
+        },
+        {
+          "id": "7-7",
+          "ru": "Стол",
+          "uz": "Stol",
+          "pos": "ot",
+          "description": "Ish yoki ovqat uchun mebel. Книга на столе. — Kitob stolda."
+        },
+        {
+          "id": "7-8",
+          "ru": "Буква",
+          "uz": "Harf",
+          "pos": "ot",
+          "description": "Alifbodagi belgi. Это русская буква. — Bu rus harfi."
+        },
+        {
+          "id": "7-9",
+          "ru": "Алфавит",
+          "uz": "Alifbo",
+          "pos": "ot",
+          "description": "Harflar tartibi. Мы учим алфавит. — Biz alifboni o'rganyapmiz."
+        },
+        {
+          "id": "7-10",
+          "ru": "Язык",
+          "uz": "Til",
+          "pos": "ot",
+          "description": "Aloqa vositasi; shuningdek, a'zo. Я учу русский язык. — Men rus tilini o'rganyapman."
+        },
+        {
+          "id": "7-11",
+          "ru": "Класс",
+          "uz": "Sinf",
+          "pos": "ot",
+          "description": "Dars o'tiladigan xona yoki o'quvchilar guruhi. Мы в классе. — Biz sinfdamiz."
+        },
+        {
+          "id": "7-12",
+          "ru": "Доска",
+          "uz": "Doska",
+          "pos": "ot",
+          "description": "Sinfdagi yozuv taxtasi. Учитель пишет на доске. — O'qituvchi doskaga yozyapti."
+        },
+        {
+          "id": "7-13",
+          "ru": "Мел",
+          "uz": "Bo'r",
+          "pos": "ot",
+          "description": "Doskaga yoziladigan bo'r. Дай мне мел. — Menga bo'r bering."
+        },
+        {
+          "id": "7-14",
+          "ru": "Парта",
+          "uz": "Parta",
+          "pos": "ot",
+          "description": "O'quvchining stoli. Я сижу за партой. — Men partada o'tiribman."
+        },
+        {
+          "id": "7-15",
+          "ru": "Студент",
+          "uz": "Talaba",
+          "pos": "ot",
+          "description": "Oliy o'quv yurtida o'qiydigan erkak. Он студент. — U talaba."
+        },
+        {
+          "id": "7-16",
+          "ru": "Читать",
+          "uz": "O'qimoq",
+          "pos": "fe'l",
+          "description": "Matn yoki kitob o'qish. Я умею читать. — Men o'qishni bilaman."
+        },
+        {
+          "id": "7-17",
+          "ru": "Учитель",
+          "uz": "O'qituvchi",
+          "pos": "ot",
+          "description": "Dars beruvchi erkak. Наш учитель добрый. — Bizning o'qituvchimiz mehribon."
+        },
+        {
+          "id": "7-18",
+          "ru": "Говорить",
+          "uz": "Gapirmoq",
+          "pos": "fe'l",
+          "description": "So'zlash. Я говорю по-русски. — Men ruscha gapiraman."
+        },
+        {
+          "id": "7-19",
+          "ru": "Звук",
+          "uz": "Tovush",
+          "pos": "ot",
+          "description": "Eshitiladigan ovoz yoki nutq tovushi. Это звук «а». — Bu «а» tovushi."
+        },
+        {
+          "id": "7-20",
+          "ru": "День",
+          "uz": "Kun",
+          "pos": "ot",
+          "description": "Sutkaning yorug' qismi. Хороший день! — Yaxshi kun!"
+        },
+        {
+          "id": "7-21",
+          "ru": "Слова",
+          "uz": "So'z",
+          "pos": "ot",
+          "description": "Mazmunli til birligi (bu yerda ko'plik shakli: so'zlar). Я учу новые слова. — Men yangi so'zlarni o'rganyapman."
+        },
+        {
+          "id": "7-22",
+          "ru": "Книга",
+          "uz": "Kitob",
+          "pos": "ot",
+          "description": "Bosma nashr. Это интересная книга. — Bu qiziqarli kitob."
+        },
+        {
+          "id": "7-23",
+          "ru": "Ручка",
+          "uz": "Ruchka",
+          "pos": "ot",
+          "description": "Yozish quroli. У меня есть ручка. — Menda ruchka bor."
+        },
+        {
+          "id": "7-24",
+          "ru": "Тетрадь",
+          "uz": "Daftar",
+          "pos": "ot",
+          "description": "Yozish uchun daftar. Тетрадь на парте. — Daftar partada."
+        },
+        {
+          "id": "7-25",
+          "ru": "Карандаш",
+          "uz": "Qalam",
+          "pos": "ot",
+          "description": "Grafit yozish quroli. Я пишу карандашом. — Men qalam bilan yozaman."
+        },
+        {
+          "id": "7-26",
+          "ru": "Учебник",
+          "uz": "Darslik",
+          "pos": "ot",
+          "description": "O'quv kitobi. Откройте учебник. — Darslikni oching."
+        },
+        {
+          "id": "7-27",
+          "ru": "Школа",
+          "uz": "Maktab",
+          "pos": "ot",
+          "description": "Bolalar o'qiydigan joy. Я иду в школу. — Men maktabga ketyapman."
+        },
+        {
+          "id": "7-28",
+          "ru": "Урок",
+          "uz": "Dars",
+          "pos": "ot",
+          "description": "O'quv mashg'uloti. Урок начинается. — Dars boshlanyapti."
+        },
+        {
+          "id": "7-29",
+          "ru": "Группа",
+          "uz": "Guruh",
+          "pos": "ot",
+          "description": "Birga o'qiydigan kishilar. Наша группа большая. — Bizning guruhimiz katta."
+        },
+        {
+          "id": "7-30",
+          "ru": "Перо",
+          "uz": "Pat, pero",
+          "pos": "ot",
+          "description": "Qush pati yoki yozish uchun pero. Это перо птицы. — Bu qush pati."
+        }
+      ]
+    },
+    {
+      "unit": 8,
+      "title": "Глаголы движения (Harakat fe'llari)",
+      "source": "Text2pdf_20261013_1319.pdf",
+      "count": 29,
+      "words": [
+        {
+          "id": "8-1",
+          "ru": "Иду",
+          "uz": "Ketyapman (piyoda)",
+          "pos": "fe'l",
+          "description": "«идти» ning men shakli (piyoda). Я иду в школу. — Men maktabga ketyapman."
+        },
+        {
+          "id": "8-2",
+          "ru": "Идёте",
+          "uz": "Ketyapsiz (piyoda)",
+          "pos": "fe'l",
+          "description": "«идти» ning siz/sizlar shakli. Вы идёте домой? — Siz uyga ketyapsizmi?"
+        },
+        {
+          "id": "8-3",
+          "ru": "Идём",
+          "uz": "Ketyapmiz (piyoda)",
+          "pos": "fe'l",
+          "description": "«идти» ning biz shakli. Мы идём в парк. — Biz parkka ketyapmiz."
+        },
+        {
+          "id": "8-4",
+          "ru": "Едешь",
+          "uz": "Ketyapsan (transportda)",
+          "pos": "fe'l",
+          "description": "«ехать» ning sen shakli. Ты едешь в город? — Sen shaharga ketyapsanmi?"
+        },
+        {
+          "id": "8-5",
+          "ru": "Едут",
+          "uz": "Ketyaptilar (transportda)",
+          "pos": "fe'l",
+          "description": "«ехать» ning ular shakli. Они едут на автобусе. — Ular avtobusda ketyapti."
+        },
+        {
+          "id": "8-6",
+          "ru": "Бежать",
+          "uz": "Yugurmoq",
+          "pos": "fe'l",
+          "description": "Tez yugurib harakatlanish. Я люблю бежать утром. — Men ertalab yugurishni yaxshi ko'raman."
+        },
+        {
+          "id": "8-7",
+          "ru": "Лететь",
+          "uz": "Uchmoq",
+          "pos": "fe'l",
+          "description": "Havoda harakatlanish. Птица хочет лететь. — Qush uchmoqchi."
+        },
+        {
+          "id": "8-8",
+          "ru": "Плыть",
+          "uz": "Suzmoq (suvda)",
+          "pos": "fe'l",
+          "description": "Suv ustida harakatlanish. Лодка плывёт. — Qayiq suzyapti."
+        },
+        {
+          "id": "8-9",
+          "ru": "Нести",
+          "uz": "Ko'tarib bormoq",
+          "pos": "fe'l",
+          "description": "Qo'lda olib borish. Я несу сумку. — Men sumkani ko'tarib ketyapman."
+        },
+        {
+          "id": "8-10",
+          "ru": "Вести",
+          "uz": "Olib bormoq (yetaklab)",
+          "pos": "fe'l",
+          "description": "Kimnidir yetaklab borish. Мама ведёт ребёнка в школу. — Onam bolani maktabga yetaklab boryapti."
+        },
+        {
+          "id": "8-11",
+          "ru": "Входить",
+          "uz": "Kirmoq",
+          "pos": "fe'l",
+          "description": "Ichkariga kirish. Войдите, пожалуйста. — Marhamat, kiring."
+        },
+        {
+          "id": "8-12",
+          "ru": "Выходить",
+          "uz": "Chiqmoq",
+          "pos": "fe'l",
+          "description": "Tashqariga chiqish. Я выхожу из дома. — Men uydan chiqyapman."
+        },
+        {
+          "id": "8-13",
+          "ru": "Приходить",
+          "uz": "Kelmoq",
+          "pos": "fe'l",
+          "description": "Piyoda kelish, yetib kelish. Он приходит рано. — U erta keladi."
+        },
+        {
+          "id": "8-14",
+          "ru": "Уходить",
+          "uz": "Ketmoq",
+          "pos": "fe'l",
+          "description": "Biror joydan chiqib ketish. Я ухожу в восемь. — Men soat sakkizda ketaman."
+        },
+        {
+          "id": "8-15",
+          "ru": "Переходить",
+          "uz": "Kesib o'tmoq",
+          "pos": "fe'l",
+          "description": "Yo'lning narigi tomoniga o'tish. Я перехожу дорогу. — Men yo'lni kesib o'tyapman."
+        },
+        {
+          "id": "8-16",
+          "ru": "Каждый",
+          "uz": "Har bir",
+          "pos": "olmosh",
+          "description": "Barchasidan har biri. Каждый день я хожу в школу. — Har kuni maktabga boraman."
+        },
+        {
+          "id": "8-17",
+          "ru": "Пешком",
+          "uz": "Piyoda",
+          "pos": "ravish",
+          "description": "Oyoqda, transportsiz. Я иду пешком. — Men piyoda ketyapman."
+        },
+        {
+          "id": "8-18",
+          "ru": "Туда",
+          "uz": "U yerga",
+          "pos": "ravish",
+          "description": "O'sha tomonga. Я иду туда. — Men u yerga ketyapman."
+        },
+        {
+          "id": "8-19",
+          "ru": "Едет",
+          "uz": "Ketyapti (transportda)",
+          "pos": "fe'l",
+          "description": "«ехать» ning u shakli. Папа едет на работу. — Dadam ishga ketyapti."
+        },
+        {
+          "id": "8-20",
+          "ru": "Машине",
+          "uz": "Mashinada",
+          "pos": "ot",
+          "description": "«машина» ning predlog kelishigi («на машине»). Мы едем на машине. — Biz mashinada ketyapmiz."
+        },
+        {
+          "id": "8-21",
+          "ru": "Всегда",
+          "uz": "Doim",
+          "pos": "ravish",
+          "description": "Har vaqt. Я всегда хожу пешком. — Men doim piyoda yuraman."
+        },
+        {
+          "id": "8-22",
+          "ru": "Идёшь",
+          "uz": "Ketyapsan (piyoda)",
+          "pos": "fe'l",
+          "description": "«идти» ning sen shakli. Куда ты идёшь? — Sen qayerga ketyapsan?"
+        },
+        {
+          "id": "8-23",
+          "ru": "Куда",
+          "uz": "Qayerga",
+          "pos": "ravish",
+          "description": "Harakat yo'nalishi haqidagi so'roq. Куда вы идёте? — Qayerga ketyapsiz?"
+        },
+        {
+          "id": "8-24",
+          "ru": "Центр",
+          "uz": "Markaz",
+          "pos": "ot",
+          "description": "Shahar yoki joyning o'rtasi. Мы едем в центр. — Biz markazga ketyapmiz."
+        },
+        {
+          "id": "8-25",
+          "ru": "Город",
+          "uz": "Shahar",
+          "pos": "ot",
+          "description": "Katta aholi punkti. Мы едем в город. — Biz shaharga ketyapmiz."
+        },
+        {
+          "id": "8-26",
+          "ru": "Ездим",
+          "uz": "Boramiz/Qatnaymiz",
+          "pos": "fe'l",
+          "description": "«ездить» ning biz shakli (muntazam harakat). Мы часто ездим в центр. — Biz tez-tez markazga qatnaymiz."
+        },
+        {
+          "id": "8-27",
+          "ru": "Идут",
+          "uz": "Ketyaptilar (piyoda)",
+          "pos": "fe'l",
+          "description": "«идти» ning ular shakli. Дети идут в школу. — Bolalar maktabga ketyapti."
+        },
+        {
+          "id": "8-28",
+          "ru": "Музей",
+          "uz": "Muzey",
+          "pos": "ot",
+          "description": "Tarixiy buyumlar saqlanadigan joy. Мы идём в музей. — Biz muzeyga ketyapmiz."
+        },
+        {
+          "id": "8-29",
+          "ru": "Едем",
+          "uz": "Ketyapmiz (transportda)",
+          "pos": "fe'l",
+          "description": "«ехать» ning biz shakli. Мы едем на море. — Biz dengizga ketyapmiz."
+        }
+      ]
+    },
+    {
+      "unit": 9,
+      "title": "Время и расписание (Vaqt va jadval)",
+      "source": "Будние_Ish_kunlari_Встаю_Turaman_uyqudan_Половине_Yarim_soat_Восьмого.pdf",
+      "count": 28,
+      "words": [
+        {
+          "id": "9-1",
+          "ru": "Будние",
+          "uz": "Ish kunlari",
+          "pos": "sifat (ko'plik)",
+          "description": "Dam olish kuni bo'lmagan kunlar. В будние дни я учусь. — Ish kunlari men o'qiyman."
+        },
+        {
+          "id": "9-2",
+          "ru": "Встаю",
+          "uz": "Turaman (uyqudan)",
+          "pos": "fe'l",
+          "description": "«вставать» ning men shakli. Я встаю в семь. — Men soat yettida turaman."
+        },
+        {
+          "id": "9-3",
+          "ru": "Половине",
+          "uz": "Yarim (soat)",
+          "pos": "ot",
+          "description": "«половина» ning predlog kelishigi; «в половине восьмого» — 7:30. Я встаю в половине восьмого. — Men 7:30 da turaman."
+        },
+        {
+          "id": "9-4",
+          "ru": "Восьмого",
+          "uz": "Sakkizinchi",
+          "pos": "son",
+          "description": "«восьмой» ning qaratqich kelishigi; soat ifodasida ishlatiladi. Половина восьмого — 7:30."
+        },
+        {
+          "id": "9-5",
+          "ru": "Завтракаю",
+          "uz": "Nonushta qilaman",
+          "pos": "fe'l",
+          "description": "«завтракать» ning men shakli. Я завтракаю дома. — Men uyda nonushta qilaman."
+        },
+        {
+          "id": "9-6",
+          "ru": "Пью",
+          "uz": "Ichaman",
+          "pos": "fe'l",
+          "description": "«пить» ning men shakli. Я пью чай. — Men choy ichaman."
+        },
+        {
+          "id": "9-7",
+          "ru": "Выхожу",
+          "uz": "Chiqaman",
+          "pos": "fe'l",
+          "description": "«выходить» ning men shakli. Я выхожу из дома в восемь. — Men soat sakkizda uydan chiqaman."
+        },
+        {
+          "id": "9-8",
+          "ru": "Учёбу",
+          "uz": "O'qishga",
+          "pos": "ot",
+          "description": "«учёба» ning tushum kelishigi. Я иду на учёбу. — Men o'qishga ketyapman."
+        },
+        {
+          "id": "9-9",
+          "ru": "Занятия",
+          "uz": "Darslar",
+          "pos": "ot (ko'plik)",
+          "description": "O'quv mashg'ulotlari. Занятия интересные. — Darslar qiziqarli."
+        },
+        {
+          "id": "9-10",
+          "ru": "Начинаются",
+          "uz": "Boshlanadi",
+          "pos": "fe'l",
+          "description": "«начинаться» ning hozirgi zamon shakli (ko'plik). Занятия начинаются в девять. — Darslar soat to'qqizda boshlanadi."
+        },
+        {
+          "id": "9-11",
+          "ru": "Заканчиваются",
+          "uz": "Tugaydi",
+          "pos": "fe'l",
+          "description": "«заканчиваться» ning hozirgi zamon shakli (ko'plik). Занятия заканчиваются в три. — Darslar soat uchda tugaydi."
+        },
+        {
+          "id": "9-12",
+          "ru": "Четверти",
+          "uz": "Chorak",
+          "pos": "ot",
+          "description": "«четверть» ning qaratqich kelishigi; «без четверти девять» — 8:45. Без четверти девять я выхожу. — Soat to'qqizga chorak qolganda chiqaman."
+        },
+        {
+          "id": "9-13",
+          "ru": "Договорились",
+          "uz": "Kelishdik",
+          "pos": "fe'l",
+          "description": "«договориться» ning o'tgan zamon shakli (ko'plik). Мы договорились встретиться. — Biz uchrashishga kelishdik."
+        },
+        {
+          "id": "9-14",
+          "ru": "Встретиться",
+          "uz": "Uchrashmoq",
+          "pos": "fe'l",
+          "description": "Birov bilan uchrashish. Мы хотим встретиться завтра. — Biz ertaga uchrashmoqchimiz."
+        },
+        {
+          "id": "9-15",
+          "ru": "Около",
+          "uz": "Atrofida/Yaqinida",
+          "pos": "ko'makchi",
+          "description": "Joy yoki vaqt yaqinligini bildiradi. Мы встретились около школы. — Biz maktab yaqinida uchrashdik."
+        },
+        {
+          "id": "9-16",
+          "ru": "Вовремя",
+          "uz": "Vaqtida",
+          "pos": "ravish",
+          "description": "Belgilangan paytda. Я пришёл вовремя. — Men vaqtida keldim."
+        },
+        {
+          "id": "9-17",
+          "ru": "Опоздал",
+          "uz": "Kechikdi",
+          "pos": "fe'l",
+          "description": "«опоздать» ning o'tgan zamon shakli (erkak). Он опоздал на урок. — U darsga kechikdi."
+        },
+        {
+          "id": "9-18",
+          "ru": "Сидели",
+          "uz": "O'tirdik",
+          "pos": "fe'l",
+          "description": "«сидеть» ning o'tgan zamon shakli (ko'plik). Мы сидели в кафе. — Biz kafeda o'tirdik."
+        },
+        {
+          "id": "9-19",
+          "ru": "Вечера",
+          "uz": "Kechqurun",
+          "pos": "ot",
+          "description": "«вечер» ning qaratqich kelishigi; «в восемь часов вечера». Мы пришли в восемь вечера. — Biz kechqurun soat sakkizda keldik."
+        },
+        {
+          "id": "9-20",
+          "ru": "Мгновение",
+          "uz": "Lahza",
+          "pos": "ot",
+          "description": "Juda qisqa vaqt. Это длилось одно мгновение. — Bu bir lahza davom etdi."
+        },
+        {
+          "id": "9-21",
+          "ru": "Пунктуальность",
+          "uz": "Punktuallik",
+          "pos": "ot",
+          "description": "Vaqtga qat'iy rioya qilish. Пунктуальность важна. — Punktuallik muhim."
+        },
+        {
+          "id": "9-22",
+          "ru": "Расписание",
+          "uz": "Jadval",
+          "pos": "ot",
+          "description": "Vaqt bo'yicha reja. Это расписание уроков. — Bu darslar jadvali."
+        },
+        {
+          "id": "9-23",
+          "ru": "Продолжительность",
+          "uz": "Davomiylik",
+          "pos": "ot",
+          "description": "Biror narsaning davom etish muddati. Продолжительность урока — час. — Dars davomiyligi bir soat."
+        },
+        {
+          "id": "9-24",
+          "ru": "Постоянно",
+          "uz": "Doimiy ravishda",
+          "pos": "ravish",
+          "description": "Uzluksiz, har doim. Он постоянно работает. — U doimiy ravishda ishlaydi."
+        },
+        {
+          "id": "9-25",
+          "ru": "Временно",
+          "uz": "Vaqtincha",
+          "pos": "ravish",
+          "description": "Qisqa muddatga. Я временно живу здесь. — Men bu yerda vaqtincha yashayapman."
+        },
+        {
+          "id": "9-26",
+          "ru": "Рассвет",
+          "uz": "Tong saharlab",
+          "pos": "ot",
+          "description": "Quyosh chiqishi vaqti (tong). Мы встали на рассвете. — Biz tong saharda turdik."
+        },
+        {
+          "id": "9-27",
+          "ru": "Закат",
+          "uz": "Quyosh botishi",
+          "pos": "ot",
+          "description": "Quyosh botadigan payt. Закат был красивый. — Quyosh botishi chiroyli edi."
+        },
+        {
+          "id": "9-28",
+          "ru": "Полночь",
+          "uz": "Yarim tun",
+          "pos": "ot",
+          "description": "Soat 12 kechasi. В полночь я сплю. — Yarim tunda men uxlayman."
+        }
+      ]
+    },
+    {
+      "unit": 10,
+      "title": "Праздники и даты (Bayramlar va sanalar)",
+      "source": "Государство_Davlat_sifati_Семейный_Oilaviy_Праздники_Bayramlar_Празднуем.pdf",
+      "count": 29,
+      "words": [
+        {
+          "id": "10-1",
+          "ru": "Государство",
+          "uz": "Davlat (sifati)",
+          "pos": "ot",
+          "description": "Mamlakatni boshqaruvchi tashkilot, davlat. Россия — большое государство. — Rossiya katta davlat."
+        },
+        {
+          "id": "10-2",
+          "ru": "Семейный",
+          "uz": "Oilaviy",
+          "pos": "sifat",
+          "description": "Oilaga oid. Это семейный праздник. — Bu oilaviy bayram."
+        },
+        {
+          "id": "10-3",
+          "ru": "Праздники",
+          "uz": "Bayramlar",
+          "pos": "ot (ko'plik)",
+          "description": "«праздник» ning ko'pligi. Мы любим праздники. — Biz bayramlarni yaxshi ko'ramiz."
+        },
+        {
+          "id": "10-4",
+          "ru": "Празднуем",
+          "uz": "Nishonlaymiz",
+          "pos": "fe'l",
+          "description": "«праздновать» ning biz shakli. Мы празднуем Новый год. — Biz Yangi yilni nishonlaymiz."
+        },
+        {
+          "id": "10-5",
+          "ru": "Важный",
+          "uz": "Muhim",
+          "pos": "sifat",
+          "description": "Katta ahamiyatga ega. Это важный день. — Bu muhim kun."
+        },
+        {
+          "id": "10-6",
+          "ru": "Рождения",
+          "uz": "Tug'ilgan (kun)",
+          "pos": "ot",
+          "description": "«рождение» ning qaratqich kelishigi; «день рождения» — tug'ilgan kun. У меня день рождения. — Mening tug'ilgan kunim."
+        },
+        {
+          "id": "10-7",
+          "ru": "Пятнадцать",
+          "uz": "O'n besh",
+          "pos": "son",
+          "description": "15 raqami. Мне пятнадцать лет. — Men o'n besh yoshdaman."
+        },
+        {
+          "id": "10-8",
+          "ru": "Мая",
+          "uz": "Mayda",
+          "pos": "ot",
+          "description": "«май» ning qaratqich kelishigi; sanada ishlatiladi. Пятнадцатого мая у меня день рождения. — O'n beshinchi mayda mening tug'ilgan kunim."
+        },
+        {
+          "id": "10-9",
+          "ru": "Отмечаю",
+          "uz": "Nishonlayman",
+          "pos": "fe'l",
+          "description": "«отмечать» ning men shakli. Я отмечаю день рождения дома. — Men tug'ilgan kunimni uyda nishonlayman."
+        },
+        {
+          "id": "10-10",
+          "ru": "Тысяча",
+          "uz": "Ming",
+          "pos": "son",
+          "description": "1000 soni. В классе тысяча книг. — Sinfda ming kitob bor."
+        },
+        {
+          "id": "10-11",
+          "ru": "Сутки",
+          "uz": "Sutka",
+          "pos": "ot",
+          "description": "24 soatlik muddat. В сутках двадцать четыре часа. — Sutkada yigirma to'rt soat bor."
+        },
+        {
+          "id": "10-12",
+          "ru": "Рассвет",
+          "uz": "Tong",
+          "pos": "ot",
+          "description": "Quyosh chiqishi vaqti. Рассвет был красивый. — Tong chiroyli edi."
+        },
+        {
+          "id": "10-13",
+          "ru": "Закат",
+          "uz": "Quyosh botishi",
+          "pos": "ot",
+          "description": "Quyosh botadigan payt. Мы смотрели на закат. — Biz quyosh botishiga qaradik."
+        },
+        {
+          "id": "10-14",
+          "ru": "Позавчера",
+          "uz": "O'tgan kun",
+          "pos": "ravish",
+          "description": "Kechadan bir kun oldin (aniqrog'i: evvalgi kuni). Позавчера я был дома. — Evvalgi kuni men uyda edim."
+        },
+        {
+          "id": "10-15",
+          "ru": "Послезавтра",
+          "uz": "Indinga",
+          "pos": "ravish",
+          "description": "Ertadan keyingi kun. Послезавтра экзамен. — Indinga imtihon."
+        },
+        {
+          "id": "10-16",
+          "ru": "Экзамены",
+          "uz": "Imtihonlar",
+          "pos": "ot (ko'plik)",
+          "description": "Bilimni tekshirish. У нас скоро экзамены. — Bizda yaqinda imtihonlar."
+        },
+        {
+          "id": "10-17",
+          "ru": "События",
+          "uz": "Voqealar",
+          "pos": "ot (ko'plik)",
+          "description": "Sodir bo'lgan hodisalar. Это важные события. — Bu muhim voqealar."
+        },
+        {
+          "id": "10-18",
+          "ru": "Ежегодно",
+          "uz": "Har yili",
+          "pos": "ravish",
+          "description": "Yilda bir marta. Мы ежегодно празднуем этот день. — Biz bu kunni har yili nishonlaymiz."
+        },
+        {
+          "id": "10-19",
+          "ru": "Столетие",
+          "uz": "Asr/Yuz yillik",
+          "pos": "ot",
+          "description": "100 yillik davr. Это новое столетие. — Bu yangi asr."
+        },
+        {
+          "id": "10-20",
+          "ru": "Календарь",
+          "uz": "Taqvim",
+          "pos": "ot",
+          "description": "Kun va oylar jadvali. Посмотри на календарь. — Taqvimga qara."
+        },
+        {
+          "id": "10-21",
+          "ru": "Прошлое",
+          "uz": "O'tmish",
+          "pos": "ot",
+          "description": "Bo'lib o'tgan davr. Это в прошлом. — Bu o'tmishda."
+        },
+        {
+          "id": "10-22",
+          "ru": "Будущее",
+          "uz": "Kelajak",
+          "pos": "ot",
+          "description": "Keyinchalik bo'ladigan davr. Я думаю о будущем. — Men kelajak haqida o'ylayman."
+        },
+        {
+          "id": "10-23",
+          "ru": "Современный",
+          "uz": "Zamonaviy",
+          "pos": "sifat",
+          "description": "Hozirgi davrga oid. Это современный город. — Bu zamonaviy shahar."
+        },
+        {
+          "id": "10-24",
+          "ru": "Традиция",
+          "uz": "An'ana",
+          "pos": "ot",
+          "description": "Avloddan avlodga o'tadigan odat. Это наша традиция. — Bu bizning an'anamiz."
+        },
+        {
+          "id": "10-25",
+          "ru": "Десятилетие",
+          "uz": "O'n yillik",
+          "pos": "ot",
+          "description": "10 yillik davr. Это десятилетие было трудным. — Bu o'n yillik qiyin bo'ldi."
+        },
+        {
+          "id": "10-26",
+          "ru": "Накануне",
+          "uz": "Arafasida",
+          "pos": "ravish",
+          "description": "Biror voqeadan bir kun oldin. Накануне праздника мы готовим обед. — Bayram arafasida biz tushlik tayyorlaymiz."
+        },
+        {
+          "id": "10-27",
+          "ru": "Ежедневно",
+          "uz": "Har kuni",
+          "pos": "ravish",
+          "description": "Har kuni. Я ежедневно читаю. — Men har kuni o'qiyman."
+        },
+        {
+          "id": "10-28",
+          "ru": "Срок",
+          "uz": "Muddat",
+          "pos": "ot",
+          "description": "Belgilangan vaqt. Срок — одна неделя. — Muddat — bir hafta."
+        },
+        {
+          "id": "10-29",
+          "ru": "Пора",
+          "uz": "Vaqt/Payt",
+          "pos": "ravish",
+          "description": "Biror ishning vaqti keldi. Пора идти. — Ketish vaqti bo'ldi."
+        }
+      ]
+    },
+    {
+      "unit": 11,
+      "title": "Местоимения и отрицания (Olmoshlar va inkorlar)",
+      "source": "Пришёл_Keldi_Никого_Hech_kimni_Видел_Ko_rgan_Никуда_Hech_qayerda.pdf",
+      "count": 30,
+      "words": [
+        {
+          "id": "11-1",
+          "ru": "Пришёл",
+          "uz": "Keldi",
+          "pos": "fe'l",
+          "description": "«прийти» ning o'tgan zamon shakli (erkak). Он пришёл домой. — U uyga keldi."
+        },
+        {
+          "id": "11-2",
+          "ru": "Никого",
+          "uz": "Hech kimni",
+          "pos": "olmosh",
+          "description": "«никто» ning qaratqich/tushum shakli. Я никого не видел. — Men hech kimni ko'rmadim."
+        },
+        {
+          "id": "11-3",
+          "ru": "Видел",
+          "uz": "Ko'rgan",
+          "pos": "fe'l",
+          "description": "«видеть» ning o'tgan zamon shakli. Я видел фильм. — Men film ko'rdim."
+        },
+        {
+          "id": "11-4",
+          "ru": "Никуда",
+          "uz": "Hech qayerda",
+          "pos": "ravish",
+          "description": "Harakat yo'nalishini inkor qiladi (aniqrog'i: hech qayoqqa). Я никуда не иду. — Men hech qayoqqa ketmayapman."
+        },
+        {
+          "id": "11-5",
+          "ru": "Человек",
+          "uz": "Inson",
+          "pos": "ot",
+          "description": "Odam. Он хороший человек. — U yaxshi inson."
+        },
+        {
+          "id": "11-6",
+          "ru": "Никакой",
+          "uz": "Hech qanday",
+          "pos": "olmosh",
+          "description": "Hech qanday narsani inkor qiladi. У меня нет никакой проблемы. — Menda hech qanday muammo yo'q."
+        },
+        {
+          "id": "11-7",
+          "ru": "Нигде",
+          "uz": "Hech qayerda",
+          "pos": "ravish",
+          "description": "Joyni inkor qiladi. Я нигде не работаю. — Men hech qayerda ishlamayman."
+        },
+        {
+          "id": "11-8",
+          "ru": "Никогда",
+          "uz": "Hech qachon",
+          "pos": "ravish",
+          "description": "Vaqtni inkor qiladi. Я никогда не опаздываю. — Men hech qachon kechikmayman."
+        },
+        {
+          "id": "11-9",
+          "ru": "Каждый",
+          "uz": "Har bir",
+          "pos": "olmosh",
+          "description": "Barchasidan har biri. Каждый студент знает это. — Har bir talaba buni biladi."
+        },
+        {
+          "id": "11-10",
+          "ru": "Весь",
+          "uz": "Hammasi",
+          "pos": "olmosh",
+          "description": "Butun, to'liq. Весь город спит. — Butun shahar uxlayapti."
+        },
+        {
+          "id": "11-11",
+          "ru": "Самой",
+          "uz": "O'zi",
+          "pos": "olmosh",
+          "description": "«сам» ning ayol jins, qaratqich shakli. Она сама пишет. — U o'zi yozyapti."
+        },
+        {
+          "id": "11-12",
+          "ru": "Другой",
+          "uz": "Boshqa",
+          "pos": "olmosh",
+          "description": "Bundan farqli. Это другой дом. — Bu boshqa uy."
+        },
+        {
+          "id": "11-13",
+          "ru": "Какой-то",
+          "uz": "Qandaydir",
+          "pos": "olmosh",
+          "description": "Noaniq, qandaydir. Какой-то человек пришёл. — Qandaydir odam keldi."
+        },
+        {
+          "id": "11-14",
+          "ru": "Некто",
+          "uz": "Kimdir",
+          "pos": "olmosh",
+          "description": "Noaniq shaxs. Некто пришёл вчера. — Kimdir kecha keldi."
+        },
+        {
+          "id": "11-15",
+          "ru": "Нечто",
+          "uz": "Nimadir",
+          "pos": "olmosh",
+          "description": "Noaniq narsa. Это нечто интересное. — Bu nimadir qiziqarli narsa."
+        },
+        {
+          "id": "11-16",
+          "ru": "Этот",
+          "uz": "Bu (erkak jinsi)",
+          "pos": "olmosh",
+          "description": "Yaqin erkak jinsdagi narsani ko'rsatadi. Этот дом новый. — Bu uy yangi."
+        },
+        {
+          "id": "11-17",
+          "ru": "Тот",
+          "uz": "Anavi (erkak jinsi)",
+          "pos": "olmosh",
+          "description": "Uzoqdagi erkak jinsdagi narsani ko'rsatadi. Тот дом старый. — Anavi uy eski."
+        },
+        {
+          "id": "11-18",
+          "ru": "Старый",
+          "uz": "Eski",
+          "pos": "sifat",
+          "description": "Ko'p vaqt oldin yaratilgan. Это старый дом. — Bu eski uy."
+        },
+        {
+          "id": "11-19",
+          "ru": "Новый",
+          "uz": "Yangi",
+          "pos": "sifat",
+          "description": "Yaqinda paydo bo'lgan. Это новый дом. — Bu yangi uy."
+        },
+        {
+          "id": "11-20",
+          "ru": "Эта",
+          "uz": "Bu (ayol jinsi)",
+          "pos": "olmosh",
+          "description": "Yaqin ayol jinsdagi narsani ko'rsatadi. Эта книга интересная. — Bu kitob qiziqarli."
+        },
+        {
+          "id": "11-21",
+          "ru": "Та",
+          "uz": "Anavi (ayol jinsi)",
+          "pos": "olmosh",
+          "description": "Uzoqdagi ayol jinsdagi narsani ko'rsatadi. Та книга старая. — Anavi kitob eski."
+        },
+        {
+          "id": "11-22",
+          "ru": "Интересная",
+          "uz": "Qiziqarli",
+          "pos": "sifat",
+          "description": "Qiziqish uyg'otadigan (ayol jinsi). Это интересная книга. — Bu qiziqarli kitob."
+        },
+        {
+          "id": "11-23",
+          "ru": "Скучная",
+          "uz": "Zerikarli",
+          "pos": "sifat",
+          "description": "Zerikish keltiradigan (ayol jinsi). Это скучная книга. — Bu zerikarli kitob."
+        },
+        {
+          "id": "11-24",
+          "ru": "Это",
+          "uz": "Bu (o'rta jins)",
+          "pos": "olmosh",
+          "description": "O'rta jinsdagi narsani ko'rsatadi. Это окно. — Bu deraza."
+        },
+        {
+          "id": "11-25",
+          "ru": "Открыто",
+          "uz": "Ochiq",
+          "pos": "ravish",
+          "description": "Yopiq emas holat. Окно открыто. — Deraza ochiq."
+        },
+        {
+          "id": "11-26",
+          "ru": "Эти",
+          "uz": "Bular",
+          "pos": "olmosh",
+          "description": "Yaqindagi ko'plikdagi narsalarni ko'rsatadi. Эти люди добрые. — Bu odamlar mehribon."
+        },
+        {
+          "id": "11-27",
+          "ru": "Люди",
+          "uz": "Odamlar",
+          "pos": "ot (ko'plik)",
+          "description": "«человек» ning ko'pligi. Люди идут домой. — Odamlar uyga ketyapti."
+        },
+        {
+          "id": "11-28",
+          "ru": "Соседи",
+          "uz": "Qo'shnilar",
+          "pos": "ot (ko'plik)",
+          "description": "«сосед» ning ko'pligi. Наши соседи добрые. — Bizning qo'shnilarimiz mehribon."
+        },
+        {
+          "id": "11-29",
+          "ru": "Ничего",
+          "uz": "Hech narsa",
+          "pos": "olmosh",
+          "description": "Narsani inkor qiladi. Я ничего не знаю. — Men hech narsa bilmayman."
+        },
+        {
+          "id": "11-30",
+          "ru": "Никто",
+          "uz": "Hech kim",
+          "pos": "olmosh",
+          "description": "Shaxsni inkor qiladi. Никто не пришёл. — Hech kim kelmadi."
+        }
+      ]
+    },
+    {
+      "unit": 12,
+      "title": "Числа и покупки (Sonlar va xaridlar)",
+      "source": "Сладости_Shirinliklar_Сорок_Qirq_Восемь_Sakkiz_Пятом_Beshinchi_Математич.pdf",
+      "count": 30,
+      "words": [
+        {
+          "id": "12-1",
+          "ru": "Сладости",
+          "uz": "Shirinliklar",
+          "pos": "ot (ko'plik)",
+          "description": "Shirin taomlar. Дети любят сладости. — Bolalar shirinliklarni yaxshi ko'radi."
+        },
+        {
+          "id": "12-2",
+          "ru": "Сорок",
+          "uz": "Qirq",
+          "pos": "son",
+          "description": "40 soni. Мне сорок лет. — Men qirq yoshdaman."
+        },
+        {
+          "id": "12-3",
+          "ru": "Восемь",
+          "uz": "Sakkiz",
+          "pos": "son",
+          "description": "8 soni. У меня восемь книг. — Menda sakkizta kitob bor."
+        },
+        {
+          "id": "12-4",
+          "ru": "Пятом",
+          "uz": "Beshinchi",
+          "pos": "son",
+          "description": "«пятый» ning predlog kelishigi. Я учусь в пятом классе. — Men beshinchi sinfda o'qiyman."
+        },
+        {
+          "id": "12-5",
+          "ru": "Математический",
+          "uz": "Matematik",
+          "pos": "sifat",
+          "description": "Matematikaga oid. Это математический урок. — Bu matematika darsi."
+        },
+        {
+          "id": "12-6",
+          "ru": "Вычисление",
+          "uz": "Hisob-kitob",
+          "pos": "ot",
+          "description": "Sonlar bilan amal bajarish. Это сложное вычисление. — Bu murakkab hisob-kitob."
+        },
+        {
+          "id": "12-7",
+          "ru": "Процент",
+          "uz": "Foiz",
+          "pos": "ot",
+          "description": "Yuzdan bir qism. Пять процентов. — Besh foiz."
+        },
+        {
+          "id": "12-8",
+          "ru": "Количество",
+          "uz": "Miqdor",
+          "pos": "ot",
+          "description": "Sanaladigan narsa soni. Какое количество? — Qancha miqdor?"
+        },
+        {
+          "id": "12-9",
+          "ru": "Приблизительно",
+          "uz": "Taxminan",
+          "pos": "ravish",
+          "description": "Aniq emas, yaqinlashtirib. Приблизительно сорок человек. — Taxminan qirq kishi."
+        },
+        {
+          "id": "12-10",
+          "ru": "Одиннадцать",
+          "uz": "O'n bir",
+          "pos": "son",
+          "description": "11 soni. Одиннадцать студентов. — O'n bir talaba."
+        },
+        {
+          "id": "12-11",
+          "ru": "Миллион",
+          "uz": "Million",
+          "pos": "son",
+          "description": "1 000 000. Миллион людей. — Million odam."
+        },
+        {
+          "id": "12-12",
+          "ru": "Половина",
+          "uz": "Yarim",
+          "pos": "ot",
+          "description": "Butunning ikkidan biri. Половина яблока. — Olmaning yarmi."
+        },
+        {
+          "id": "12-13",
+          "ru": "Целое",
+          "uz": "Butun",
+          "pos": "ot",
+          "description": "To'liq, bo'linmagan. Это целое число. — Bu butun son."
+        },
+        {
+          "id": "12-14",
+          "ru": "Стоимость",
+          "uz": "Qiymat/Narx",
+          "pos": "ot",
+          "description": "Narsaning bahosi. Какая стоимость? — Narxi qancha?"
+        },
+        {
+          "id": "12-15",
+          "ru": "Чётный",
+          "uz": "Juft",
+          "pos": "sifat",
+          "description": "2 ga bo'linadigan (son). Четыре — чётное число. — To'rt — juft son."
+        },
+        {
+          "id": "12-16",
+          "ru": "Килограмм",
+          "uz": "Kilogramm",
+          "pos": "ot",
+          "description": "Og'irlik birligi. Килограмм яблок. — Bir kilogramm olma."
+        },
+        {
+          "id": "12-17",
+          "ru": "Бананов",
+          "uz": "Bananlar",
+          "pos": "ot",
+          "description": "«банан» ning ko'plik qaratqich kelishigi (miqdor bilan). Пять бананов. — Beshta banan."
+        },
+        {
+          "id": "12-18",
+          "ru": "Яиц",
+          "uz": "Tuxumlar",
+          "pos": "ot",
+          "description": "«яйцо» ning ko'plik qaratqich kelishigi. Десять яиц. — O'nta tuxum."
+        },
+        {
+          "id": "12-19",
+          "ru": "Бутылка",
+          "uz": "Shisha (idish)",
+          "pos": "ot",
+          "description": "Suyuqlik uchun idish. Бутылка молока. — Bir shisha sut."
+        },
+        {
+          "id": "12-20",
+          "ru": "Молоко",
+          "uz": "Sut",
+          "pos": "ot",
+          "description": "Sigir yoki boshqa hayvon suti. Я пью молоко. — Men sut ichaman."
+        },
+        {
+          "id": "12-21",
+          "ru": "Покупки",
+          "uz": "Xaridlar",
+          "pos": "ot (ko'plik)",
+          "description": "Sotib olingan narsalar. Мы делаем покупки. — Biz xarid qilyapmiz."
+        },
+        {
+          "id": "12-22",
+          "ru": "Стоили",
+          "uz": "Turardi (narxi)",
+          "pos": "fe'l",
+          "description": "«стоить» ning o'tgan zamon shakli (ko'plik). Бананы стоили дорого. — Bananlar qimmat turardi."
+        },
+        {
+          "id": "12-23",
+          "ru": "Триста",
+          "uz": "Uch yuz",
+          "pos": "son",
+          "description": "300 soni. Триста рублей. — Uch yuz rubl."
+        },
+        {
+          "id": "12-24",
+          "ru": "Пятьдесят",
+          "uz": "Ellik",
+          "pos": "son",
+          "description": "50 soni. Пятьдесят рублей. — Ellik rubl."
+        },
+        {
+          "id": "12-25",
+          "ru": "Пятьсот",
+          "uz": "Besh yuz",
+          "pos": "son",
+          "description": "500 soni. Пятьсот рублей. — Besh yuz rubl."
+        },
+        {
+          "id": "12-26",
+          "ru": "Оплата",
+          "uz": "To'lov",
+          "pos": "ot",
+          "description": "Pul to'lash. Оплата картой. — Karta bilan to'lov."
+        },
+        {
+          "id": "12-27",
+          "ru": "Осталось",
+          "uz": "Qoldi",
+          "pos": "fe'l",
+          "description": "«остаться» ning o'tgan zamon shakli (o'rta jins). У меня осталось сто рублей. — Menda yuz rubl qoldi."
+        },
+        {
+          "id": "12-28",
+          "ru": "Экономить",
+          "uz": "Tejamoq",
+          "pos": "fe'l",
+          "description": "Pulni ehtiyotkorlik bilan sarflash. Я хочу экономить. — Men tejamoqchiman."
+        },
+        {
+          "id": "12-29",
+          "ru": "Единица",
+          "uz": "Birlik",
+          "pos": "ot",
+          "description": "1 soni yoki o'lchov birligi. Один — это единица. — Bir — bu birlik."
+        },
+        {
+          "id": "12-30",
+          "ru": "Разряд",
+          "uz": "Xona (sonlar uchun)",
+          "pos": "ot",
+          "description": "Sonning xonasi (birlar, o'nlar...). Число имеет три разряда. — Sonning uchta xonasi bor."
+        }
+      ]
+    }
+  ]
+}
